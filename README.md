@@ -1,2 +1,1 @@
-# wallpapersmart.web.app
-https://wallpapersmart.web.app
+# [wallpapersmart.web.app](https://wallpapersmart.web.app)
